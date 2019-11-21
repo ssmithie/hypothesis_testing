@@ -30,12 +30,12 @@ We scraped album ratings from [Pitchfork](https://pitchfork.com) and ended up wi
 
 We started by looking at how the overall ratings are distributed:
 
-![ratings distribution](https://github.com/ssmithie/flatiron_mod3_project/images/dist_ratings "ratings distribution")
+![ratings distribution](https://github.com/ssmithie/flatiron_mod3_project/blob/master/images/dist_ratings.png "ratings distribution")
 
 We then visualised the box and whisker plots broken down by both genre and month:
-![genre distribution](https://github.com/ssmithie/flatiron_mod3_project/images/dist_genre "genre distribution")
+![genre distribution](https://github.com/ssmithie/flatiron_mod3_project/blob/master/images/dist_genre.png "genre distribution")
 
-![month distribution](https://github.com/ssmithie/flatiron_mod3_project/images/dist_month "month distribution")
+![month distribution](https://github.com/ssmithie/flatiron_mod3_project/blob/master/images/dist_month.png "month distribution")
 
 
 ## Hypotheses Testing <a name='model'></a>
